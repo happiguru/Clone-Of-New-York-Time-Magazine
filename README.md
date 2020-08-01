@@ -23,7 +23,7 @@ This project was designed to fulfill the following concepts:
 
 ## Live Demo
 
-[Live Demo Link](https://happiguru.github.io/PositioningandFloatingElements/)
+[Live Demo Link](https://happiguru.github.io/Clone-Of-New-York-Time-Magazine/)
 
 [Github Repository Link](https://github.com/happiguru/PositioningandFloatingElements)
 
